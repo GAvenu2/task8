@@ -1,2 +1,2 @@
-# task8
- Understand the role of VPNs in protecting privacy and secure communication.
+# task8 :-Understand the role of VPNs in protecting privacy and secure communication.
+Installing the free and secure vpn windscribe, connecting to a nearby server, and verifying the changed IP address using https://whatismyipaddress.com. VPNs encrypt internet traffic, protecting users from ISPs, trackers, and insecure public Wi-Fi risks. They hide your IP, enhance privacy, and allow limited access to restricted content. After disconnecting, users can compare IP and browsing speed to see the impact using https://speedtest.net. While VPNs improve security, free versions often have drawbacks such as slower speeds, data limits, fewer servers, and weaker privacy policies. Some may log user activity. Therefore, VPNs are useful but not a complete privacy or security solution.And finally read about the VPN encryption and privacy features.
